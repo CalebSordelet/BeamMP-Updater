@@ -23,7 +23,7 @@ A lightweight, automated updater for the **BeamMP Launcher**. This tool monitors
 ### Python Dependencies
 
 ```
-pefile==2022.1.3
+pefile
 pypiwin32
 requests
 ```

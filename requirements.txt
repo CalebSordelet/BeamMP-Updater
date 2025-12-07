@@ -1,2 +1,3 @@
 pefile
 pypiwin32
+requests
