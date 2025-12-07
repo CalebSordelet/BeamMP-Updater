@@ -1,0 +1,2 @@
+pefile
+pypiwin32
